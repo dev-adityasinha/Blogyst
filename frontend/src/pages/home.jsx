@@ -17,7 +17,7 @@ function Home() {
                 </div>
             </div>
             <div className="flex flex-col">
-                <p className="flex text-[10rem] justify-center text-center align-middle items-center font-semibold -mt-10">Ideas Worth</p>
+                <p className="flex text-[9.5rem] justify-center text-center align-middle items-center font-semibold -mt-8">Ideas Worth</p>
                 <p className="flex -mt-20 text-[10rem] justify-center text-center align-middle items-center font-semibold">Sharing.</p>
             </div>
             <div className="flex justify-center">
@@ -26,7 +26,7 @@ function Home() {
                 </div>
             </div>
             <div className="flex items-center justify-center">
-                <button className="flex align-middle justify-center bg-black text-white pl-4 pr-4 pt-2 pb-2 rounded-md text-xl mb-15 cursor-pointer">Start Reading</button>
+                <button className="flex align-middle justify-center bg-black text-white pl-4 pr-4 pt-2 pb-2 rounded-md text-xl mt-5 mb-10 cursor-pointer">Start Reading</button>
             </div>
             <div className="border-t flex">
                 <p className="flex w-full text-center items-center justify-center mt-2">Aditya Sinha || Copyright-2025</p>
